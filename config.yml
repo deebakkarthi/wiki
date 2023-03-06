@@ -8,17 +8,15 @@ menu:
     - indentifier: categories
       name: Categories
       url: /categories/
-      weight: 1
     - indentifier: tags
       name: Tags 
       url: /tags/
-      weight: 2
     - indentifier: archives
       name: Archives
       url: /archives/
-      weight: 3
 
 params:
+  author: Deebakkarthi
   ShowBreadCrumbs: true
   profileMode:
     enabled: true
