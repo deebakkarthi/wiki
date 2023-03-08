@@ -5,8 +5,10 @@ date: 2023-03-04T12:34:38+05:30
 
 # Other Resources
 
-- [BLE Book](/ble_book.pdf)
-- [nRF52840 DK User Guide](/nRF52840_DK_user_guide.pdf)
+- _Getting Started with Bluetooth Low Energy_ by Kevin Townsend, Carles Cufí, Akiba, and Robert Davidson
+(O’Reilly). Copyright 2014 Kevin Townsend, Carles Cufí, Akiba, and Robert
+Davidson, 978-1-491-94951-1.
+- [nRF52840 DK User Guide](https://infocenter.nordicsemi.com/pdf/nRF52840_DK_User_Guide_v1.2.pdf)
 - [nRF52840 Tutorial videos](https://youtube.com/playlist?list=PLiKJljyEUlZj4z8RqJKTaoMpSqjLdBGO4)
 
 # Personal Notes

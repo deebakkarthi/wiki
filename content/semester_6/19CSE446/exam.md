@@ -1,5 +1,5 @@
 ---
-title: "Exam"
+title: "Exam Resources"
 date: 2023-03-04T12:40:32+05:30
 ---
 
