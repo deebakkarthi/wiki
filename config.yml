@@ -1,29 +1,6 @@
 baseURL: http://notes.deebakkarthi.com
 languageCode: en-us
 title: Notes
-theme: PaperMod
-
-menu:
-  main:
-    - indentifier: categories
-      name: Categories
-      url: /categories/
-    - indentifier: tags
-      name: Tags 
-      url: /tags/
-    - indentifier: archives
-      name: Archives
-      url: /archives/
-
+theme: xmin
 params:
-  author: Deebakkarthi
-  ShowBreadCrumbs: true
-  profileMode:
-    enabled: true
-    title: "Deebakkarthi's Notes" # optional default will be site title
-    subtitle: "Collection of notes and other college resources"
-  socialIcons:
-    - name: "Linkedin"
-      url: "https://www.linkedin.com/in/deebakkarthi"
-    - name: "Github"
-      url: "https://github.com/deebakkarthi"
+  author: Deebakkarthi C R

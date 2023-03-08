@@ -22,6 +22,6 @@ math: true
     - ACM Computing
 - Don't take papers from conference as the page limit imposed usually makes the
 content brief
-- Presentation is advised to be in $\LaTeX$
+- Presentation is advised to be in \\( \LaTeX \\)
 - _Atleast_ the contents of the paper need to be implemented
 
