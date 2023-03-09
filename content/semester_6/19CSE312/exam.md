@@ -7,6 +7,7 @@ draft: false
 ## Important Dates
 Quiz 1
 : 2023-03-13
+[Resources]({{< ref "q1.md" >}} "Resources")
 
 Lab evaluation 1
 : 2023-03-20

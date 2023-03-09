@@ -13,6 +13,22 @@ Davidson, 978-1-491-94951-1.
 
 # Personal Notes
 
+## BLE Roles
+
+- Broadcaster  
+Only broadcast but can't bond
+- Obeserver  
+Only observer but can't connect
+- Central 
+Observes and can connect
+- Peripheral  
+Broadcasts and connects
+
+## BLE Stack
+- Application
+- Host
+- Controller
+
 ## Harwarde Info
 - nRF52840 is an ARM Cortex M4F _SOC_.
 - The nRF52840 DK is a hardware development platform used to design and develop
@@ -73,3 +89,7 @@ macros. `boards.h` also has several abstracted function to handle GPIO operation
 - `bsp_board_led_invert(led_idx)`
 - `bsp_board_leds_on()`
 - `bsp_board_leds_off()`
+
+### BLE Progamming
+
+

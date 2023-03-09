@@ -20,7 +20,7 @@ Midterm
 End semester
 : 60 Theory / 40 Lab
 
-## Evaluations
+## Evaluation Dates
 
 Tutorial 1
 : 2023-03-11
@@ -33,3 +33,5 @@ Lab evaluation 2
 
 Lab evaluation 3
 : 2023-06-14
+
+## Evaluation Resources
