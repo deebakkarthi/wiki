@@ -35,4 +35,3 @@ title: "Notes"
 - Questions in the daily scrum meeting
 
 
-
