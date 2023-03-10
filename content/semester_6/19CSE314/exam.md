@@ -5,13 +5,14 @@ date: 2023-03-04T12:40:28+05:30
 
 ## Evaluation Pattern
 
-| Component    | Marks |
-|--------------|-------|
-| Mid Term     | 20    |
-| Sprint 0     | 5     |
-| Sprint 1     | 15    |
-| Sprint 2     | 20    |
-| End Semester | 30    |
+| Component    | Marks     |
+|--------------|-----------|
+| Mid Term     | 20        |
+| CAT          | 10(3+3+4) |
+| Sprint 0     | 5         |
+| Sprint 1     | 15        |
+| Sprint 2     | 20        |
+| End Semester | 30        |
 
 ## Important Dates
 
