@@ -1,0 +1,25 @@
+#+TITLE: Internet of Things Notes
+#+OPTIONS: toc:nil
+
+* Definitions of IoT
+** IEEE
+Networks of things each embedded with sensors which are connected to
+the Internet
+** ITU
+Available anywhere, anytime, by anything and anyone
+** ITU-T
+A global infrastructure for the information society, enabling advanced
+services by interconnecting (physical and virtual) things based on
+existing and evolving interoperable information and communication
+technologies.
+** Bagha and Madisetti
+A dynamic global network infrastructure with self-configuring
+capabilities based on standard and interoperable communication
+protocols where physical and virtual “things” have identities,
+physical attributes, and virtual personalities and use intelligent
+interfaces, and are seamlessly integrated into the information network
+
+* Design of IoT Component Architecture
+- IoT device to perceive the environment
+- Gateway to distribute data
+  

@@ -1,0 +1,38 @@
+#+title: Mock Interview Preparation
+* Operating Systems
+1. What is a process?
+   - Process is a program in execution
+2. What are the states of a process?
+   1. Running
+   2. Ready
+   3. Waiting
+3. What are threads?
+   - Threads are paths of execution. They can be thought of lightweight
+   processes.
+4. Differentiate threads and processes?
+   - Processes are executed in separate memory space whereas threads of
+   the same process share the same memory space
+5. What is thrashing?
+   - When the systems spends more time in handling page faults than
+   actual execution
+6. What is /Belady's anamoly/ ?
+   - Usually increasing the number of pages decrease the number of page faults.
+   - But in some page replacement algorithm this is not the case.
+   - The phenomenon by which the increase in the number of pages results in more page faults is known as /Belady's anamoly/.
+   - Example: *FIFO page replacement*
+7. What is a kernel?
+   - Kernel is the first program that is run when an OS is booted. It is
+   a resource manager, and acts as a bridge between the hardware and
+   software of a system.
+8. What is a deadlock?
+   - A deadlock is a situation that can occur in a computer system when two or more processes are blocked and waiting for each other to release resources, resulting in a deadlock where neither process can proceed.
+9. Required conditions for a deadlock to occur
+   1. Mutual Exclusion
+   2. Hold and Wait
+   3. No preemption
+   4. Circular wait
+10. What are starvation and aging in OS?
+    - Starvation :: Process is not allocated resources for a long time.
+    - Aging :: Priority of Low priority tasks are increased for every
+      time quantum and this ensures that they will be served
+      eventually
